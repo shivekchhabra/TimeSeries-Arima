@@ -1,12 +1,25 @@
-# This repository is still in process of completion. 
-
-
 ## What does the repository contain?
 The repository contains a code for Time Series modelling using ARIMA. 
+The output is the produced forecasts. However methods for eda,diagnostics and validation have been made and may be uncommented from main to check.
 
 ## How to use this repository?
 Simply install requirements by doing:
 	pip install -r requirements.txt
+
+and run furniture_sales.py
+
+You may use your own dataset and check the prediction.
+
+
+
+
+
+
+
+
+
+
+
 
 ## Helpful Notes:
 
