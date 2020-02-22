@@ -10,6 +10,49 @@ and run furniture_sales.py
 
 You may use your own dataset and check the prediction.
 
+Original Data:
+
+
+
+
+![alt text](https://github.com/shivekchhabra/TimeSeries-Arima/blob/master/Outputs/Original_data.png)
+
+
+
+Model Diagnostics:
+
+
+
+
+
+![alt text](https://github.com/shivekchhabra/TimeSeries-Arima/blob/master/Outputs/Diagnostics.png)
+
+
+
+Validation:
+
+
+
+
+
+![alt text](https://github.com/shivekchhabra/TimeSeries-Arima/blob/master/Outputs/Validation.png)
+
+
+
+
+
+
+
+
+
+Forecasting:
+
+
+
+
+
+![alt text](https://github.com/shivekchhabra/TimeSeries-Arima/blob/master/Outputs/Forecasts.png)
+
 
 
 
